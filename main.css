@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    background-color: #FCFBF4;
+    color: #133C55;
+}
+#navbar{
+    height: 100px;
+    width: 100%;
+    border: 1;
+    border-collapse: collapse;
+}
+th{
+  
+    font-size: 30px;
+    text-align: center;
+    width: 25%;
+}
+
+th a{
+    text-decoration: none;
+
+}
+
+#portfolio-picture{
+    width: 300px;
+    border-radius: 10px;
+}
+#univ-picture{
+    width: 100%;
+    border-radius: 10px;
+}
+
+#top-section{
+    width: 300px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#univ-top-section{
+    margin-top: 20px;
+    padding: 0px 200px;
+
+}
+#univ-intro-heading{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+
+#profile-picture-label{
+    text-align: center;
+    font-size: 25px;
+    color: #133C55;
+}
+
+.page-content, #intro-heading{
+    margin: 50px 40px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#intro-heading{
+    font-size: 40px;
+}
+
+#intro-paragraph{
+    text-align: justify;
+    margin-top: 20px;
+}
+
+#footer-note{
+    font-size: 30px;
+    text-align: center;
+    margin: 20px 0px;
+}
+#footer{
+    margin-top: auto;
+}
+.list-container{
+    margin: 50px auto;
+    width: 650px;
+}
+
+.list-item{
+    margin-top: 15px;
+    font-size: 20px;
+
+}
+.no-list-item{
+    list-style: none;
+    margin-top: 30px;
+}
+
+#contact-me-field{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.form-input{
+    margin-top: 30px;
+}
+
+.form-btn{
+    color:#FCFBF4;
+    background-color: #133C55;
+    width: 90px;
+    height: 25px;
+    border: 0px;
+    border-radius: 10px;
+}
+
+.form-btn:hover{
+    transition: 0.6s;
+    color: #133C55;
+    background-color: #FCFBF4;
+    border: 3px solid #133C55;
+
+}
+.page-content-paragraph{
+    margin-top: 30px;
+
+
+}
